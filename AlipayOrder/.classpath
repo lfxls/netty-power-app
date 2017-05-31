@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/fastjson-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/guava-10.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="lib/TdAnnotations.jar"/>
+	<classpathentry kind="lib" path="lib/TdContext.jar"/>
+	<classpathentry kind="lib" path="lib/TdDB.jar"/>
+	<classpathentry kind="lib" path="lib/TdInterceptor.jar"/>
+	<classpathentry kind="lib" path="lib/TdLog.jar"/>
+	<classpathentry kind="lib" path="lib/TdUtils.jar"/>
+	<classpathentry kind="lib" path="lib/TdTpelEngineDB.jar"/>
+	<classpathentry kind="lib" path="lib/alipay-sdk-java20170209153223-source.jar"/>
+	<classpathentry kind="lib" path="lib/alipay-sdk-java20170209153223.jar" sourcepath="lib/alipay-sdk-java20170209153223-source.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
